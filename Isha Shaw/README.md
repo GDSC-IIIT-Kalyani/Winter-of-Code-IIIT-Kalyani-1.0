@@ -4,4 +4,6 @@
 
 * [Demo-Video](https://drive.google.com/file/d/1uAhBsJbh_tE41IJV_OH-sasHhnAJXFQu/view)
 
-* [Repo](https://github.com/Isha307/NOvid-20)
+* [GitHub Repo](https://github.com/Isha307/NOvid-20)
+
+* [Host](v2dha.github.io/novid-20)
